@@ -1,0 +1,81 @@
+{
+    "message": "OK",
+    "data": {
+        "text": "What Car do you  like the most?",
+        "options": [
+            {
+                "image": "https://images-na.ssl-images-amazon.com/images/I/41X2MqS5RRL.jpg",
+                "text": "Sports Car",
+                "option_id": 1
+            },
+            {
+                "image": "https://media.ed.edmunds-media.com/toyota/prius-c/2012/ns/2012_toyota_prius-c_f34_ns_72814_600.jpg",
+                "text": "Compact Hybrid",
+                "option_id": 2
+            },
+            {
+                "image": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/480x360/54ca5ec917eac_-_10-luxury-suvs-09-0613-de.jpg",
+                "text": "Luxury SUV",
+                "option_id": 3
+            }
+        ],
+        "is_last_question": false,
+        "type": "SINGLE_CHOICE",
+        "next_question": {
+            "text": "whats can be suitable for your's life style?",
+            "options": [
+                {
+                    "image": "https://www.igoair.com/images/banner14.jpg",
+                    "text": "Travel",
+                    "option_id": 40
+                },
+                {
+                    "image": "http://www.coup4jip.com/wp-content/uploads/2017/05/1.jpg",
+                    "text": "Lawyer",
+                    "option_id": 43
+                },
+                {
+                    "image": "http://www.johnnywas.com/wp/wp-content/uploads/2015/02/JohnnyWas_Scottsdale_FashionShow18.jpg",
+                    "text": "Fashion",
+                    "option_id": 39
+                },
+                {
+                    "image": "http://japfafoundation.org/wp-content/uploads/2015/02/EDUCATION.jpg",
+                    "text": "Education",
+                    "option_id": 41
+                },
+                {
+                    "image": "http://imgcache.dealmoon.com/img.dealmoon.com/images/c/15/05/19/555b6d7f77e67.jpg_300_0_13_0949.jpg",
+                    "text": "Business",
+                    "option_id": 42
+                }
+            ],
+            "is_last_question": false,
+            "type": "MULTIPLE_CHOICE",
+            "next_question": {
+                "text": "In which category do you consider your fit yoursel the most?",
+                "options": [
+                    {
+                        "image": "http://www.ocregister.com/wp-content/uploads/migration/nu4/nu4qp0-b88490969z.120150903185309000geibqhhk.10.jpg?w=620",
+                        "text": "Potential Sports Car buyer",
+                        "option_id": 13
+                    },
+                    {
+                        "image": "http://www.todayonline.com/sites/default/files/styles/photo_gallery_image_lightbox/public/18969874.JPG?itok=Jd45b5bJ",
+                        "text": "Car enthusiast",
+                        "option_id": 14
+                    },
+                    {
+                        "image": "https://www.carkeys.co.uk/media/9715/zenos_new_owner_found_2.jpg",
+                        "text": "Sports Car Owner",
+                        "option_id": 15
+                    }
+                ],
+                "is_last_question": true,
+                "type": "SINGLE_CHOICE",
+                "next_question": null
+            }
+        }
+    },
+    "status": 200
+}
